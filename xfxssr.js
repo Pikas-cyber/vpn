@@ -5,9 +5,9 @@ var originalTitle = "小飞侠";
 // 机场的地址url
 var wangzhangurl = "https://xfxssr.com";
 // 登录页面背景图
-var loginBackgroundImageUrl = 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/56b00087d93a4a84adef69adc1dc2c14~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp';
+var loginBackgroundImageUrl = 'https://cdn.jsdelivr.net/gh/Pikas-cyber/vpn@main/xfxssr/400x165.png';
 // 登录后的背景图
-var headBackgroundImageUrl = 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/56b00087d93a4a84adef69adc1dc2c14~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp';
+var headBackgroundImageUrl = 'https://cdn.jsdelivr.net/gh/Pikas-cyber/vpn@main/xfxssr/400x330.png';
 // 存储网站授权码  不懂勿动
 var license_key;
 
