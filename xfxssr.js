@@ -1,13 +1,13 @@
 const crypto = require('crypto');
 
 // 网站名字
-var originalTitle = "";
+var originalTitle = "小飞侠";
 // 机场的地址url
-var wangzhangurl = "";
+var wangzhangurl = "https://xfxssr.com";
 // 登录页面背景图
-var loginBackgroundImageUrl = '';
+var loginBackgroundImageUrl = 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/56b00087d93a4a84adef69adc1dc2c14~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp';
 // 登录后的背景图
-var headBackgroundImageUrl = '';
+var headBackgroundImageUrl = 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/56b00087d93a4a84adef69adc1dc2c14~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp';
 // 存储网站授权码  不懂勿动
 var license_key;
 
