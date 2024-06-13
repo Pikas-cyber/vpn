@@ -5,9 +5,9 @@ var originalTitle = "v速云";
 // 机场的地址url
 var wangzhangurl = "https://vfast.cloud";
 // 登录页面背景图
-var loginBackgroundImageUrl = 'https://cdn.jsdelivr.net/gh/Pikas-cyber/vpn@main/xfxssr/400x165.png';
+var loginBackgroundImageUrl = 'https://cdn.jsdelivr.net/gh/Pikas-cyber/vpn@main/vfast/400x165.png';
 // 登录后的背景图
-var headBackgroundImageUrl = 'https://cdn.jsdelivr.net/gh/Pikas-cyber/vpn@main/xfxssr/400x330.png';
+var headBackgroundImageUrl = 'https://cdn.jsdelivr.net/gh/Pikas-cyber/vpn@main/vfast/400x330.png';
 // 存储网站授权码  不懂勿动
 var license_key;
 
