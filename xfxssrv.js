@@ -3,7 +3,7 @@ const crypto = require('crypto');
 // 网站名字
 var originalTitle = "小飞侠";
 // 机场的地址url
-var wangzhangurl = "https://xfxssr.help";
+var wangzhangurl = "https://xfx.355m.cn";
 // 登录页面背景图
 var loginBackgroundImageUrl = 'https://cdn.jsdelivr.net/gh/Pikas-cyber/vpn@main/xfxssr/400x165.png';
 // 登录后的背景图
