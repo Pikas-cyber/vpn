@@ -3,7 +3,7 @@ const crypto = require('crypto');
 // 网站名字
 var originalTitle = "v速云";
 // 机场的地址url
-var wangzhangurl = "https://vfast.help";
+var wangzhangurl = "https://www.vfast.life";
 // 登录页面背景图
 var loginBackgroundImageUrl = 'https://cdn.jsdelivr.net/gh/Pikas-cyber/vpn@main/vfast/400x165.png';
 // 登录后的背景图
